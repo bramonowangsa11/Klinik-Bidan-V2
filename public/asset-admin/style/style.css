@@ -1,0 +1,153 @@
+/* Animasi untuk konten company profile */
+@keyframes slideInLeft {
+    0% {
+        opacity: 0;
+        transform: translateX(-100%);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+/* Animasi untuk slide ke bawah */
+@keyframes slideInDown {
+    0% {
+        opacity: 0;
+        transform: translateY(-100%);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Animasi untuk slide ke atas */
+@keyframes slideInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(100%);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Gunakan kelas slide-in-down untuk animasi slide ke bawah */
+.slide-in-down {
+    animation: slideInDown 0.5s ease-in-out;
+}
+
+/* Gunakan kelas slide-in-up untuk animasi slide ke atas */
+.slide-in-up {
+    animation: slideInUp 1s ease-in-out;
+}
+
+.animasi {
+    animation: slideInLeft 2s ease-in-out;
+    /* Sesuaikan durasi dan efek animasi sesuai kebutuhan */
+}
+
+
+.icons {
+    text-align: center;
+}
+
+.icons a {
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+/* Colors */
+.warnaKuning {
+    background-color: #ffc300;
+}
+
+.warnaKuningNavBar {
+    background: radial-gradient(circle farthest-corner, hsl(46, 100%, 75%) 85%, hsl(46, 100%, 95%));
+}
+
+.warnaKuningSection1 {
+    background: linear-gradient(hsl(46, 100%, 75%) 10%, hsl(46, 100%, 100%));
+}
+
+.warnaKuningSerti {
+    background: linear-gradient(hsl(46, 100%, 50%) 85%, hsl(46, 100%, 100%));
+}
+
+.warnaKuningMitra {
+    background: radial-gradient(circle closest-side, hsl(46, 100%, 65%) 35%, hsl(46, 100%, 100%));
+}
+
+.border1 {
+    border: #696866 solid 1.5px;
+    border-radius: 30px;
+    padding: 5px;
+}
+
+@media screen and (max-width: 576px) {
+    .navbar-brand {
+        font-size: 20px;
+        /* Ubah ukuran font brand */
+    }
+
+    .navbar-nav .nav-link {
+        font-size: 16px;
+        /* Ubah ukuran font link navbar */
+    }
+
+    .navbar-toggler {
+        padding: 0.5rem 0.7rem;
+        /* Sesuaikan padding untuk toggler */
+        font-size: 1.5rem;
+        /* Sesuaikan ukuran font untuk toggler */
+    }
+
+    .navbar-collapse {
+        margin-top: 0 !important;
+        /* Hapus margin atas pada navbar collapse */
+    }
+
+    .image1 {
+        margin-top: 15px;
+        /* Ubah margin-top untuk image1 */
+    }
+
+    .image2 {
+        margin-left: 15px !important;
+        /* Ubah margin-left untuk image2 */
+    }
+
+    .serti2 {
+        width: 90%;
+        /* Ubah lebar untuk serti2 */
+        height: auto;
+        /* Sesuaikan tinggi dengan lebar */
+        margin-top: 20px !important;
+        /* Ubah margin-top untuk serti2 */
+        margin-bottom: 20px !important;
+        /* Ubah margin-bottom untuk serti2 */
+    }
+
+    .dok1,
+    .dok2 {
+        margin-left: 0 !important;
+        /* Hapus margin kiri untuk dok1 dan dok2 */
+    }
+
+    .navbar1 {
+        margin-left: 10px !important;
+        /* Ubah margin kiri untuk navbar1 */
+    }
+
+    .PlayFairDisplay800Font,
+    .PlusJakartaSans500Font,
+    .PlusJakartaSans600Font {
+        font-size: 16px;
+        /* Ubah ukuran font untuk teks */
+    }
+}

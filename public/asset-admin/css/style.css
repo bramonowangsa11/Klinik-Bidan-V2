@@ -1,0 +1,99 @@
+/* Fonts */
+@font-face {
+    font-family: PlayfairDisplay;
+    src: url(../fonts/Playfair_Display/static/PlayfairDisplay-Regular.ttf);
+}
+
+@font-face {
+    font-family: PlayfairDisplay800;
+    src: url(../fonts/Playfair_Display/static/PlayfairDisplay-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: PlusJakartaSans;
+    src: url(../fonts/Plus_Jakarta_Sans/static/PlusJakartaSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: PlusJakartaSans500;
+    src: url(../fonts/Plus_Jakarta_Sans/static/PlusJakartaSans-Medium.ttf);
+}
+
+@font-face {
+    font-family: PlusJakartaSans600;
+    src: url(../fonts/Plus_Jakarta_Sans/static/PlusJakartaSans-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: PlusJakartaSans800;
+    font-weight: 800;
+    src: url(../fonts/Plus_Jakarta_Sans/static/PlusJakartaSans-ExtraBold.ttf);
+}
+
+.PlayFairDisplayFont {
+    font-family: PlayfairDisplay !important;
+}
+
+.PlayFairDisplay800Font {
+    font-family: PlayfairDisplay800 !important;
+}
+
+.PlusJakartaSansFont {
+    font-family: PlusJakartaSans !important;
+}
+
+.PlusJakartaSans500Font {
+    font-family: PlusJakartaSans500 !important;
+}
+
+.PlusJakartaSans600Font {
+    font-family: PlusJakartaSans600 !important;
+}
+
+.PlusJakartaSans800Font {
+    font-family: PlusJakartaSans800 !important;
+}
+
+/* Akhir Fonts */
+
+body {
+    overflow-x: hidden;
+    /* background: radial-gradient(circle farthest-corner, hsl(46, 100%, 75%) 85%, hsl(46, 100%, 95%)); */
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+img {
+    object-fit: cover;
+}
+
+.linear-gradient-1 {
+    background: linear-gradient(#ffc107, #fff);
+    height: 50px;
+}
+
+.fa-solid.fa-location-dot.fa-2x {
+    color: hsl(0, 0%, 66%);
+}
+
+.fa-solid.fa-location-dot.fa-2x:hover {
+    color: hsl(0, 0%, 81%);
+}
+
+.fa-brands.fa-instagram.fa-2x {
+    color: hsl(326, 57%, 48%);
+}
+
+.fa-brands.fa-instagram.fa-2x:hover {
+    color: hsl(326, 57%, 68%);
+}
+
+.fa-brands.fa-whatsapp.fa-2x {
+    color: hsl(173, 77%, 31%);
+}
+
+.fa-brands.fa-whatsapp.fa-2x:hover {
+    color: hsl(173, 77%, 51%);
+}

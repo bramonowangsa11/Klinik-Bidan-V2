@@ -1,0 +1,1190 @@
+/* Ellipse 2 */
+
+position: absolute;
+width: 658px;
+height: 658px;
+left: 641px;
+top: 5967px;
+
+background: #FFC300;
+filter: blur(200px);
+
+
+/* PT. PJB UP MT Muara Tawar Bekasi */
+
+position: absolute;
+width: 628px;
+height: 134px;
+left: 1240px;
+top: 6149px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 800;
+font-size: 50px;
+line-height: 67px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* PT. PJB BPWC */
+
+position: absolute;
+width: 339px;
+height: 67px;
+left: 1384px;
+top: 6377px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 800;
+font-size: 50px;
+line-height: 67px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* PJB Services */
+
+position: absolute;
+width: 292px;
+height: 67px;
+left: 234px;
+top: 6371px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 800;
+font-size: 50px;
+line-height: 67px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* PT. PJB Ubjom Indramayu */
+
+position: absolute;
+width: 528px;
+height: 134px;
+left: 696px;
+top: 6149px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 800;
+font-size: 50px;
+line-height: 67px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* PT. BPI */
+
+position: absolute;
+width: 177px;
+height: 67px;
+left: 871px;
+top: 6377px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 800;
+font-size: 50px;
+line-height: 67px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 17 */
+
+position: absolute;
+width: 1920px;
+height: 836px;
+left: 0px;
+top: 5987px;
+
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 1920px;
+height: 1699px;
+left: 0px;
+top: 2398px;
+
+background: #FFC300;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 1920px;
+height: 116px;
+left: 0px;
+top: 0px;
+
+background: #FFC300;
+filter: blur(214.8px);
+border-radius: 4px 4px 0px 0px;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1920px;
+height: 647px;
+left: 0px;
+top: 1099px;
+
+background: #FFC300;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1920px;
+height: 103px;
+left: 0px;
+top: 0px;
+
+
+
+/* image 1 */
+
+position: absolute;
+width: 65px;
+height: 65px;
+left: 100px;
+top: 26px;
+
+background: url(image.png);
+border-radius: 10px;
+
+
+/* PT. RAIHAN BINTANG UTARA */
+
+position: absolute;
+width: 422px;
+height: 38px;
+left: 195px;
+top: 39px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 30px;
+line-height: 38px;
+/* identical to box height */
+
+color: #030303;
+
+
+
+/* Beranda */
+
+position: absolute;
+width: 115px;
+height: 35px;
+left: 1094px;
+top: 39px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 35px;
+
+color: #000000;
+
+
+
+/* Visi Misi */
+
+position: absolute;
+width: 107px;
+height: 35px;
+left: 1247px;
+top: 39px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 35px;
+
+color: #000000;
+
+
+
+/* Layanan */
+
+position: absolute;
+width: 113px;
+height: 35px;
+left: 1398px;
+top: 39px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 35px;
+
+color: #000000;
+
+
+
+/* Kerjasama */
+
+position: absolute;
+width: 143px;
+height: 35px;
+left: 1546px;
+top: 39px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 35px;
+
+color: #000000;
+
+
+
+/* Kontak */
+
+position: absolute;
+width: 98px;
+height: 35px;
+left: 1723px;
+top: 39px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 35px;
+
+color: #000000;
+
+
+
+/* General Trading, Supplier, Cleaning Services */
+
+position: absolute;
+width: 579px;
+height: 279px;
+left: 100px;
+top: 211px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 800;
+font-size: 70px;
+line-height: 93px;
+
+color: #2D2D2D;
+
+
+
+/* Rounded rectangle */
+
+position: absolute;
+width: 455px;
+height: 698px;
+left: 976px;
+top: 211px;
+
+background: url(image.png);
+border-radius: 40px;
+
+
+/* image 3 */
+
+position: absolute;
+width: 347px;
+height: 349px;
+left: 1473px;
+top: 211px;
+
+background: url(image.png);
+border-radius: 40px;
+
+
+/* image 4 */
+
+position: absolute;
+width: 347px;
+height: 321px;
+left: 1473px;
+top: 588px;
+
+background: url(image.png);
+border-radius: 50px;
+
+
+/* Visi */
+
+position: absolute;
+width: 106px;
+height: 80px;
+left: 907px;
+top: 1129px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 800;
+font-size: 60px;
+line-height: 80px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Misi */
+
+position: absolute;
+width: 124px;
+height: 80px;
+left: 898px;
+top: 1410px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 800;
+font-size: 60px;
+line-height: 80px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Layanan yang kami sediakan */
+
+position: absolute;
+width: 799px;
+height: 80px;
+left: 560px;
+top: 1838px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 800;
+font-size: 60px;
+line-height: 80px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Sertifikat dan Penghargaan */
+
+position: absolute;
+width: 764px;
+height: 80px;
+left: 578px;
+top: 2445px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 800;
+font-size: 60px;
+line-height: 80px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Dokumentasi */
+
+position: absolute;
+width: 376px;
+height: 80px;
+left: 772px;
+top: 4282px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 800;
+font-size: 60px;
+line-height: 80px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Mitra */
+
+position: absolute;
+width: 158px;
+height: 80px;
+left: 881px;
+top: 5994px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 800;
+font-size: 60px;
+line-height: 80px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Mengutamakan pelayanan yang ramah dan profesional Memprioritaskan kepuasan pelanggan Membuka dan menciptakan lapangan pekerjaan sesuai dengan program pemerintah sesuai dengan SDM */
+
+position: absolute;
+width: 1215px;
+height: 190px;
+left: 352px;
+top: 1515px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 38px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Menjadi perusahaan yang professional, handal, dan terpercaya dengan jaminan kualitas dalam layanannya, sehingga mampu menjawab segala tantangan akan kebutuhan customer. */
+
+position: absolute;
+width: 1215px;
+height: 114px;
+left: 352px;
+top: 1234px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 38px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Hubungi kami */
+
+position: absolute;
+width: 262px;
+height: 50px;
+left: 104px;
+top: 814px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 50px;
+
+color: #2D2D2D;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 96px;
+height: 96px;
+left: 404px;
+top: 791px;
+
+background: #FFC300;
+
+
+/* Arrow 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 40px;
+height: 0px;
+left: 432px;
+top: 839px;
+
+border: 5px solid #000000;
+
+
+/* Rectangle 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 270px;
+height: 67px;
+left: 165px;
+top: 1996px;
+
+border: 1.5px solid #696866;
+border-radius: 30px;
+
+
+/* Rectangle 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 270px;
+height: 67px;
+left: 1165px;
+top: 1996px;
+
+border: 1.5px solid #696866;
+border-radius: 30px;
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 270px;
+height: 67px;
+left: 486px;
+top: 1996px;
+
+border: 1.5px solid #696866;
+border-radius: 30px;
+
+
+/* Rectangle 19 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 270px;
+height: 67px;
+left: 486px;
+top: 2141px;
+
+border: 1.5px solid #696866;
+border-radius: 30px;
+
+
+/* Rectangle 9 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 270px;
+height: 67px;
+left: 165px;
+top: 2141px;
+
+border: 1.5px solid #696866;
+border-radius: 30px;
+
+
+/* Rectangle 12 */
+
+box-sizing: border-box;
+
+position: absolute;
+visibility: hidden;
+width: 270px;
+height: 67px;
+left: 485px;
+top: 2141px;
+
+border: 1.5px solid #696866;
+border-radius: 30px;
+
+
+/* Rectangle 10 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 270px;
+height: 67px;
+left: 825px;
+top: 2141px;
+
+border: 1.5px solid #696866;
+border-radius: 30px;
+
+
+/* Rectangle 14 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 270px;
+height: 67px;
+left: 825px;
+top: 2286px;
+
+border: 1.5px solid #696866;
+border-radius: 30px;
+
+
+/* Rectangle 13 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 270px;
+height: 67px;
+left: 1485px;
+top: 2141px;
+
+border: 1.5px solid #696866;
+border-radius: 30px;
+
+
+/* Rectangle 11 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 270px;
+height: 67px;
+left: 1165px;
+top: 2141px;
+
+border: 1.5px solid #696866;
+border-radius: 30px;
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 270px;
+height: 67px;
+left: 825px;
+top: 1996px;
+
+border: 1.5px solid #696866;
+border-radius: 30px;
+
+
+/* Rectangle 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 270px;
+height: 67px;
+left: 1485px;
+top: 1996px;
+
+border: 1.5px solid #696866;
+border-radius: 30px;
+
+
+/* Greasing */
+
+position: absolute;
+width: 110px;
+height: 32px;
+left: 245px;
+top: 2014px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 32px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Concrete Repair */
+
+position: absolute;
+width: 197px;
+height: 32px;
+left: 522px;
+top: 2014px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 32px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Coating */
+
+position: absolute;
+width: 98px;
+height: 32px;
+left: 250px;
+top: 2159px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 32px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Pemantauan Perhitungan */
+
+position: absolute;
+width: 149px;
+height: 50px;
+left: 546px;
+top: 2150px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 25px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Monitoring */
+
+position: absolute;
+width: 132px;
+height: 32px;
+left: 894px;
+top: 2159px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 32px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Sewa Pendukung */
+
+position: absolute;
+width: 209px;
+height: 32px;
+left: 855px;
+top: 2304px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 32px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Sewa Alat Berat */
+
+position: absolute;
+width: 190px;
+height: 32px;
+left: 1525px;
+top: 2155px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 32px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Penanaman */
+
+position: absolute;
+width: 142px;
+height: 32px;
+left: 1229px;
+top: 2159px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 32px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Sipil */
+
+position: absolute;
+width: 52px;
+height: 32px;
+left: 934px;
+top: 2014px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 32px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Cleaning */
+
+position: absolute;
+width: 108px;
+height: 32px;
+left: 1245px;
+top: 2014px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 32px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Grouting Injeksi */
+
+position: absolute;
+width: 189px;
+height: 32px;
+left: 1525px;
+top: 2014px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 32px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Kami siap bekerjasama dengan semua instansi dan seluruh sektor yang berkaitan di dalam bidang jasa cleaning service, konstruksi dan pemasok barang baik swasta maupun pemerintah dengan penuh tanggung jawab dan saling menguntungkan. Kepercayaan yang diberikan kepada kami adalah suatu kehormatan yang akan dijaga serta dilaksanakan dengan sebaik-baiknya guna mendapatkan sebuah hasil yang memuaskan kedua belah pihak. */
+
+position: absolute;
+width: 700px;
+height: 175px;
+left: 100px;
+top: 533px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 25px;
+letter-spacing: 0.05em;
+
+color: #2D2D2D;
+
+
+
+/* image 5 */
+
+position: absolute;
+width: 576px;
+height: 399px;
+left: 327px;
+top: 2594px;
+
+background: url(image);
+
+
+/* image 7 */
+
+position: absolute;
+width: 576px;
+height: 399px;
+left: 327px;
+top: 3054px;
+
+background: url(image);
+
+
+/* image 8 */
+
+position: absolute;
+width: 597px;
+height: 392px;
+left: 1038px;
+top: 3061px;
+
+background: url(image);
+
+
+/* image 9 */
+
+position: absolute;
+width: 576px;
+height: 427.73px;
+left: 327px;
+top: 3514px;
+
+background: url(image);
+
+
+/* image 10 */
+
+position: absolute;
+width: 634px;
+height: 414px;
+left: 1020px;
+top: 3514px;
+
+background: url(image);
+
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 2098px;
+height: 237px;
+left: -35px;
+top: 4018px;
+
+background: linear-gradient(175.02deg, #FFC300 -42.43%, #FFFFFF 95.56%);
+filter: blur(25px);
+
+
+/* image 11 */
+
+position: absolute;
+width: 683px;
+height: 636px;
+left: 180px;
+top: 4423px;
+
+background: url(image);
+border-radius: 40px;
+
+
+/* image 12 */
+
+position: absolute;
+width: 680px;
+height: 476px;
+left: 995px;
+top: 4423px;
+
+background: url(image);
+border-radius: 30px;
+
+
+/* image 13 */
+
+position: absolute;
+width: 836px;
+height: 362px;
+left: 995px;
+top: 4939px;
+
+background: url(image);
+border-radius: 40px;
+
+
+/* image 14 */
+
+position: absolute;
+width: 677px;
+height: 594px;
+left: 186px;
+top: 5120px;
+
+background: url(image);
+border-radius: 40px;
+
+
+/* image 15 */
+
+position: absolute;
+width: 687px;
+height: 509px;
+left: 970px;
+top: 5355px;
+
+background: url(image);
+border-radius: 30px;
+
+
+/* image 6 */
+
+position: absolute;
+width: 603px;
+height: 407px;
+left: 1014px;
+top: 2594px;
+
+background: url(image);
+
+
+/* PT. PLN Nusantara Power */
+
+position: absolute;
+width: 549px;
+height: 134px;
+left: 106px;
+top: 6149px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 800;
+font-size: 50px;
+line-height: 67px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 18 */
+
+position: absolute;
+width: 1920px;
+height: 423px;
+left: 0px;
+top: 6878px;
+
+background: #FFC300;
+
+
+/* Desa Losarang RT. 007 RW. 002 Kecamatan Losarang Kabupaten Indramayu Kode Pos 45253 Fax : (0234) 7145004 Telp : (0234) 7145004 HP : 085320223311 */
+
+position: absolute;
+width: 421px;
+height: 175px;
+left: 100px;
+top: 7031px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+
+color: #000000;
+
+
+
+/* Desa Losarang RT. 007 RW. 002 Kecamatan Losarang Kabupaten Indramayu Kode Pos 45253 Fax : (0234) 7145004 Telp : (0234) 7145004 HP : 085320223311 */
+
+position: absolute;
+width: 415px;
+height: 175px;
+left: 680px;
+top: 7037px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+
+color: #000000;
+
+
+
+/* PT. RAIHAN BINTANG UTARA */
+
+position: absolute;
+width: 422px;
+height: 38px;
+left: 100px;
+top: 6936px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 30px;
+line-height: 38px;
+/* identical to box height */
+
+color: #030303;
+
+
+
+/* Kantor Utama */
+
+position: absolute;
+width: 165px;
+height: 32px;
+left: 100px;
+top: 6990px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 32px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Kantor Cabang */
+
+position: absolute;
+width: 182px;
+height: 32px;
+left: 680px;
+top: 6996px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 32px;
+/* identical to box height */
+
+color: #000000;
+

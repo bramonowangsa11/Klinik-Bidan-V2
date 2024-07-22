@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\Unit\\testRPL::test":8,"Tests\\Unit\\testRPL::testReq":7,"Tests\\Unit\\testRPL::testberhasil":8,"Tests\\Unit\\testRPL::testgagal":7},"times":{"Tests\\Unit\\testRPL::test":0.02,"Tests\\Unit\\testRPL::testReq":0.08,"Tests\\Unit\\testRPL::testberhasil":0.061,"Tests\\Unit\\testRPL::testgagal":0.003}}

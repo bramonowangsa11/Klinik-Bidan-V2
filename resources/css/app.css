@@ -1,0 +1,19 @@
+.start{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.masthead {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+    /* position: relative; */
+}
+
+@media (max-width: 768px) {
+    .masthead {
+        min-height: 120vh;
+        background-attachment: scroll;
+    }
+}
